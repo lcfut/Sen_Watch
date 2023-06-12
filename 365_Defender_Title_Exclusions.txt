@@ -1,0 +1,12 @@
+﻿Phish delivered due to an ETR override involving one user
+Phish delivered due to an ETR override
+Phish delivered due to an ETR override involving multiple users
+Messages have been delayed
+Phish not zapped because ZAP is disabled
+Email reported by user as malware or phish involving one user
+Suspicious email sending patterns detected
+Malware not zapped because ZAP is disabled
+Malware not zapped because ZAP is disabled involving one user
+Email reported by user as junk
+Email reported by user as not junk
+Email reported by user as not junk involving one user
